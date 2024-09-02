@@ -1,8 +1,10 @@
+![GitHub](https://img.shields.io/github/license/ktortolini/example-repo?style=flat-square)
+
 # Example Repository
 
 ## _Description_
 
-This repository serves as an example for demonstrating the creation of a public repository, showcasing the use of GitHub for building and deploying a repository from scratch.
+This repository serves as an example for demonstrating the creation of a public repository, showcasing the use of GitHub for building and deploying a repository from scratch. You can share this repository link with your friends (or enemies!) ~ https://github.com/ktortolini/example-repo.
 
 ## _Author_
 
