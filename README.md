@@ -1,4 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/ktortolini/example-repo?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/ktortolini/example-repo?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/ktortolini/example-repo?color=green&style=flat-square)
 
 # Example Repository
 
